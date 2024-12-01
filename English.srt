@@ -1,0 +1,20 @@
+1
+00:00:01,000 --> 00:00:05,000
+Hello, this is a Turkish subtitle file.
+
+2
+00:00:05,500 --> 00:00:09,000
+The subtitle format is often used in movies and videos.
+
+3
+00:00:09,500 --> 00:00:13,000
+Each subtitle has a numbering.
+
+4
+00:00:13,500 --> 00:00:17,000
+Time stamps indicate start and end times.
+
+5
+00:00:17,500 --> 00:00:20,000
+Here's a subtitle file ready!
+

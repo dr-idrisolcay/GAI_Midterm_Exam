@@ -1,0 +1,19 @@
+1
+00:00:01,000 --> 00:00:05,000
+Merhaba, bu bir Türkçe altyazı dosyasıdır.
+
+2
+00:00:05,500 --> 00:00:09,000
+Altyazı formatı genellikle film ve videolarda kullanılır.
+
+3
+00:00:09,500 --> 00:00:13,000
+Her altyazı bir numaralandırmaya sahiptir.
+
+4
+00:00:13,500 --> 00:00:17,000
+Zaman damgaları başlangıç ve bitiş sürelerini belirtir.
+
+5
+00:00:17,500 --> 00:00:20,000
+İşte böyle bir altyazı dosyası hazır!
